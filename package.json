@@ -1,6 +1,6 @@
 {
   "name": "pasteboard",
-  "version": "0.0.1",
+  "version": "0.0.1-hola.0",
   "private": true,
   "scripts": {
     "start": "coffee app"
